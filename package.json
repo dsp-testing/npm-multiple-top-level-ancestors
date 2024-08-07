@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "applause": "1.1.0",
-    "lodash": "^3.10.0"
+    "applause": "2.0.4",
+    "lodash": "^4.17.21"
   }
 }
